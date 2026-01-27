@@ -1,4 +1,4 @@
-# � Slopify
+# Slopify
 
 > **A satirical mobile app that transforms your mundane photos into AI-generated "slop" — low-quality, surreal images paired with cringe-worthy social media captions.**
 
